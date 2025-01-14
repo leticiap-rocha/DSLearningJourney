@@ -7,7 +7,7 @@
 -  **Problema:** Após sofrer quedas consideráveis nas suas receitas devido à pandemia de Corona, a empresa BikeIndia aspira compreender a procura de bicicletas partilhadas.
 -  **Objetivo:** Modelar a demanda por bicicletas alugadas com as variáveis independentes disponíveis. Dessa forma, a gerência poderá manipular a estratégia de negócios para atender aos níveis de demanda e às expectativas dos clientes.
 
-- [Clique Aqui e acesse o projeto completo.](https://github.com/leticiap-rocha/Bike-Sharing-Multiple-Linear-Regression)
+- [Clique aqui e acesse o projeto completo.](https://github.com/leticiap-rocha/Bike-Sharing-Multiple-Linear-Regression)
  
 -  **Resultados:**
    - Foram necessários 6 modelos até que se chegasse em um que se considerasse satisfatório;
